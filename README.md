@@ -1,9 +1,3 @@
-# van_schedule_issues
-A public repo to help communicate issues and feature requests
-
-
-
-
 # Tabitha Van Schedule
 * Url: http://<host>:8080/appointments/
 * Username: <blank>
