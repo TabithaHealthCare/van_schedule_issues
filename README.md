@@ -3,12 +3,14 @@
 * Username: &lt;blank&gt;
 * Password: &lt;Same as old van scheduler&gt;
 
-# Compatibility View Settings
-* You need to go to your IE Settings ->
-Compatibility View Settings -> uncheck 'Display intranet sites in
-Compatibility View'
+# Known Issues
+##### Compatibility View Settings
+* You need to go to your IE Settings -> Compatibility View Settings -> uncheck 'Display intranet sites in Compatibility View'
   * If you do not, the menu on the right will not
 work.
+##### Right Menu not working
+* Sometimes the right menu links stop working. I haven’t been able to narrow down the cause yet. If anyone can identify a reproduction scenario I would be grateful.
+  * Refreshing the page fixes the issue
 
 # Main Page
 * By default, shows the first 20 records for the last month
@@ -41,5 +43,5 @@ same way with a create
 * If you wish to delete an appointment you may check the 'Deleted' box
   * Deleted By and Reason for Deletion are required if 'Deleted' is checked
 
-# Show Appointments
+##### Show Appointments
 * Simply shows a bit more information about the appointment than the main page
