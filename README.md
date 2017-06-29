@@ -1,7 +1,7 @@
 # Tabitha Van Schedule
-* Url: http://<host>:8080/appointments/
-* Username: <blank>
-* Password: <Same as old van scheduler>
+* Url: http://&lt;host&gt;:8080/appointments/
+* Username: &lt;blank&gt;
+* Password: &lt;Same as old van scheduler&gt;
 
 # Compatibility View Settings
 * You need to go to your IE Settings ->
